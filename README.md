@@ -3,6 +3,7 @@
     $ rustup target add wasm32-unknown-unknown
 
 To build this project you nedd to have [cargo-web] installed:
+
     $ cargo install cargo-web
 > Add '--force' option to ensure you install the latest version.
 
