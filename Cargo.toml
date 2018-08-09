@@ -1,0 +1,8 @@
+[package]
+name = "yewexample"
+version = "0.0.1"
+authors = ["Sven Thiele sthiele78@gmail.com"]
+
+[dependencies]
+stdweb = "0.4.8"
+yew = "0.4.0"
